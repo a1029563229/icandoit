@@ -6,7 +6,7 @@ var Vue = require('vue');
 new Vue({
     el:"body",
     data: {
-        message:"hello vue.js!"
+        message:"hello vue.jss!"
     }
 });
 
